@@ -15,3 +15,9 @@ public:
         nama = "";
     };
 
+    mahasiswa(int iNim)
+    {
+        nim = iNim;
+    }
+
+    
